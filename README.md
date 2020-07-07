@@ -4,6 +4,10 @@ Learning Ruby on rails5.0.
 I'm learning on udemy.  
 https://www.udemy.com/course/rails-kj/
 
+The supplementary material, git hub, is as follows  
+https://github.com/kkoji/rails-lecture/
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
